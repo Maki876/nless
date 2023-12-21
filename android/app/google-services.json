@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "22280392292",
+    "project_id": "my-app-nless",
+    "storage_bucket": "my-app-nless.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22280392292:android:86eb86a2e3a78c989d5971",
+        "android_client_info": {
+          "package_name": "com.example.nless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22280392292-ghq9b27g8mls9f7fambfoh1dk6fskvll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGs1kfb0CvNfMpVArPM22U-cY717hOz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22280392292-ghq9b27g8mls9f7fambfoh1dk6fskvll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22280392292-qld4l08lper8arlk56fgbbirlkm2leo8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nless"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
